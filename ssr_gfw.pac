@@ -21,6 +21,11 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  * https://softs.fun/Other/pac.txt
  */
 
+ /*
+ * Copyright (C) 2017 Nscrl
+ * https://github.com/nscrl/gfwlist/blob/master/ssr_gfw.pac
+ */
+
 var rules = [
 	"||2dbook.com",
 	"||4tern.com",
